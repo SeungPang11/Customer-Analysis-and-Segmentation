@@ -1,4 +1,4 @@
-# Customer-Analysis-and-Segmentation
+# Customer-Analysis-and-Segmentation 
  
 _**Techniques**_: EDA, Descriptive and Inferential Statistics (T-test, Chi-squared test), Data Scaling, <br /> 
 PCA Dimensionality Reduction, Elbow Method, and Silhouette Score <br />
