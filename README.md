@@ -36,10 +36,6 @@ ____**K-Means Clustering for Customer Segmentation**____<br />
 * Principle Component Analysis (PCA) Dimensionality Reduction <br />
 * Select Optimal Number of Clusters - Elbow Method, Silhouette Analysis <br />
 
-____**Visualizations**____<br />
-* <br />
-* <br />
-* 
 
 ## Result
 * 
