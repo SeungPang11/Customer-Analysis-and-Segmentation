@@ -27,8 +27,8 @@ ____**Exploratory Data Analysis**____<br />
 * Check for unique values within certain categorical variables
 
 __**Descriptive and Inferential Statistical Analysis**__<br />
-* <br /> 
-* 
+* Chi-Squared Test <br /> 
+* T-Test <br /> 
 
 ____**K-Means Clustering for Customer Segmentation**____<br />
 * Data Preprocessing <br />
