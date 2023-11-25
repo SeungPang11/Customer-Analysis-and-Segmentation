@@ -34,7 +34,7 @@ ____**K-Means Clustering for Customer Segmentation**____<br />
 * Data Preprocessing <br />
 * Feature Engineering - Feature Selection, Data Scaling <br />
 * Principle Component Analysis (PCA) Dimensionality Reduction <br />
-* Select Optimal Number of Clusters - Elbow Method, Silhouette Analysis for model evaluation<br />
+* Model Evaluation - Elbow Method (Select Optimal Number of Clusters), Silhouette Analysis <br />
 
 
 ## Result 
