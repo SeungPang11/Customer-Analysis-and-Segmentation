@@ -38,9 +38,10 @@ ____**K-Means Clustering for Customer Segmentation**____<br />
 
 
 ## Result 
-* 
-* 
-* 
+<img width="267" alt="Screen Shot 2023-11-25 at 2 08 34 PM" src="https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/assets/67944800/f8cd4210-dd3f-4de8-8776-e08fdc326e87"> <br>
+<img width="300" alt="Screen Shot 2023-11-25 at 2 09 54 PM" src="https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/assets/67944800/2f34164d-1d73-4594-b998-3a68c74567dd"> <br>
+<img width="350" alt="Screen Shot 2023-11-25 at 2 09 32 PM" src="https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/assets/67944800/6b275bf0-ff7e-4e4f-99f2-4a33ed1adb30"> <br>
+
 
 
 
