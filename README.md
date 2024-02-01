@@ -3,7 +3,7 @@
 _**Techniques**_: EDA, Descriptive and Inferential Statistics (T-test, Chi-squared test), Data Scaling, <br /> 
 PCA Dimensionality Reduction, Elbow Method, and Silhouette Score <br />
 _**Tools**_: Python, Plotly, Matplotlib, Pandas, Seaborn
-
+ 
 <img width="440" alt="Consumer Data" src="https://github.com/SeungPang11/Customer-Analysis-and-Segmentation/assets/67944800/ae0b3529-77b4-49ec-ad31-afcd3577d22b">
 
 
